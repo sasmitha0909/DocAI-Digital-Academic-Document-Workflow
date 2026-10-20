@@ -1,0 +1,13 @@
+{
+  "name": "digital-academic-document-workflow-system",
+  "version": "1.0.0",
+  "description": "Digital Academic Document Workflow System - MERN Stack",
+  "private": true,
+  "scripts": {
+    "server": "npm start --prefix server",
+    "server:dev": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server",
+    "seed:reset": "npm run seed --prefix server -- --reset"
+  }
+}

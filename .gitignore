@@ -1,0 +1,6 @@
+node_modules/
+.env
+server/.data/
+server/uploads/
+server/storage/
+client/dist/
