@@ -71,6 +71,8 @@ All demo accounts use password: **`password123`**
 A **"Demo Accounts"** panel on the `/login` page allows 1-click credential autofill for immediate testing.
 
 ---
+## Demo Video
+[Watch the demo video](https://drive.google.com/file/d/1z-5xXHWKaglRXGAg_gn2cLb72FfF9Qxm/view?usp=sharing)
 
 ## Automated Acceptance Test Suite
 
